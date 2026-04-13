@@ -8,7 +8,7 @@ Aplikasi website ini dibuat untuk membantu pengelolaan administrasi keuangan RT,
 
 ### Backend
 
-- Laravel (PHP 8.x)
+- Laravel (PHP ^8.3)
 - MySQL
 
 ### Frontend
